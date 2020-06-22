@@ -3,7 +3,7 @@
       A new facebook account cracker tool for termux users
 </p>
 
-## 馃攳 ***About BHOT***:
+## 馃攳 ***About BotolBaba***:
 
 BHOT is a python based script. You can use this tool for crack facebook users passwords. This tool works on both rooted Android device and Non-rooted Android device.
 
@@ -22,7 +22,7 @@ $ pkg install php
 <br/>
 $ pkg install openssh
 <br/>
-$ git clone https://github.com/botolmehedi/bhot
+$ git clone https://github.com/RayhanAhmedAbir/Rayhan.git
 <br/>
 $ pip2 install requests
 <br/>
@@ -30,9 +30,9 @@ $ pip2 install mechanize
 <br/>
 $ ls
 <br/>
-$ cd bhot
+$ cd Rayhan
 <br/>
-$ python2 bhot.py
+$ python2 botolbaba.py
 <br/>
 ...
 <br/>
@@ -48,27 +48,27 @@ $ python2 bhot.py
 ## 馃敆 ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/MasterTrick1
+https://www.youtube.com/-----
 
 ### Chekout our webite:
-https://www.mastertrick.design
+https://ww----
 
 ## 馃懃 ***Join***
 
 ### Facebook group: 
-https://www.facebook.com/groups/231747098048450
+https://www.facebook.com/g------
 
 ### Telegram channel:
-https://t.me/mastertrick2
+https://t.me/maste---
 
 ### Facebook page:
-https://www.facebook.com/TeamVVirus
+https://www.facebook.com/-----
 
 ### Instagram: 
-https://www.instagram.com/MehtanOfficial
+https://www.instagram.com/M---
 
 ### My GitHub ID link:
-https://www.github.com/BotolMehedi
+https://www.github.com/B---
 
 ### 馃摙 Warning
 
